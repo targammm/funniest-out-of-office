@@ -15,7 +15,9 @@ auto-reply, 140 characters or fewer, written to `/output/entry.txt` by
 
 129 characters. A real reply — return date, where urgent matters go — whose
 twist lands in the last words: the reply itself does the one thing the
-manager asked it not to do.
+manager asked it not to do. The named manager is the datum that makes it a
+person's reply instead of a template; cut "Priya" and it is a form letter,
+cut the last clause and it is a memo.
 
 ## Run
 
